@@ -1,2 +1,6 @@
 Updated Demo file 1.1
+<<<<<<< HEAD
 Updated Demo file 1.2
+=======
+Updated Demo file 1.2 from remote
+>>>>>>> 5197b1d617b71343afec850cfd61ce172f48f9b0
